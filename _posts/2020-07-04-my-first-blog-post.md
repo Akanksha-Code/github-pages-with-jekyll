@@ -1,7 +1,4 @@
-hey 
-all 
-this 
-is 
-just 
-a 
-sample.
+---
+title: "myfirst-blog"
+date: 2020-07-10
+---
